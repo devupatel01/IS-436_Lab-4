@@ -1,9 +1,9 @@
 <?php
 // Database connection details
-$servername = "localhost";
-$username = "root";
-$password = "password";
-$dbname = "ozama_kappa";
+$servername = "studentdb-maria.gl.umbc.edu";
+$username = "RT65774";
+$password = "RT65774";
+$dbname = "RT65774";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
